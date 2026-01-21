@@ -1,0 +1,7 @@
+{
+  "name": "Ecografista Cláudio Sityá AI",
+  "description": "Uma suíte médica avançada combinando pesquisa clínica (estilo Perplexity), análise de imagens diagnósticas e interpretação de literatura médica (PDFs) usando Google Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
